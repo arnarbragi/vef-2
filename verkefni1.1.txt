@@ -30,3 +30,5 @@ Mér finnst að í hvert skipti sem þú leysir einhvern einn part af verkefninu þá æ
 þar sem ég commita eftir hverja spurningu og þé er ekki séns að ég missi neina vinnu.
 
 7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
+Working directory er aðal skráin þar sem allt fer þegar þú commitar því, Staging area er þar sem þú getur testað allar
+breytingar verkefnsins áður en þú commitar því.
