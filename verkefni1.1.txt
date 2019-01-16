@@ -2,7 +2,7 @@
 cd - Stendur fyrir "change directory". Færir þig um möppu. t.d. cd Verkefni1/verkefni1.1
 ls - Stendur fyrir "list". Skrifar niður allar möppur og öll skjöl í möppunni sem þú ert staddur.
 pwd - Stendur fyrir "print working directory". Prentar út möppuna sem þú ert staddur í.
-mkdir -
+mkdir - Stendur fyrir "make directory". Býr til nýja möppu(a.k.a directory).
 2. Hvað gera eftirfarandi Git skipanir?
 git clone -
 git status -
