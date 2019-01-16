@@ -1,6 +1,6 @@
 1. Hvað gera eftirfarandi Linux skipanir?
 cd - Stendur fyrir "change directory". Færir þig um möppu.
-ls - 
+ls - Stendur fyrir "list". Skrifar niður allar möppur og öll skjöl í möppunni sem þú ert staddur.
 pwd -
 mkdir -
 2. Hvað gera eftirfarandi Git skipanir?
