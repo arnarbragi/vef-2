@@ -4,9 +4,9 @@ ls - Stendur fyrir "list". Skrifar niður allar möppur og öll skjöl í möppunni se
 pwd - Stendur fyrir "print working directory". Prentar út möppuna sem þú ert staddur í.
 mkdir - Stendur fyrir "make directory". Býr til nýja möppu(a.k.a directory).
 2. Hvað gera eftirfarandi Git skipanir?
-git clone -
-git status -
-git diff -
+git clone - Downloadar verkefni og allri útgáfu sögu verkefnisinns
+git status - Skrifar allar nýjar eða breyttar möppur sem á eftir að committa
+git diff - Sýnir munin á möppum
 3. Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
 git log -
 git checkout -
