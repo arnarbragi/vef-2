@@ -20,7 +20,10 @@ Version control er kerfi sem t.d. GitHub notar þar sem að það vistar allar útgáf
 útgáfu af skjalinu og byrjað þaðan aftur í staðinn fyrir að finna villurnar í skjalinu sem gæti tekið smá tíma. 
 
 5. Hverjir eru helstu kostir við að nota GIT?
-
+GIT gerir það mikið léttara og öruggara að geyma gögn. Eina sem þarf til að komast í gögnin er netsamband og einhvernveginn 
+tæki(t.d. síma eða fartölvu). Ef tölvan með öllum gögnunum þínum eyðileggst þá getur þú bara farið á github.com og sótt þau
+aftur. Maður veit aldrei hvað getur gerst og þess vegna er betra að taka 2 mínútur í að henda gögnunum þínum á github og 
+vita að gögnin eru örugg.
 
 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
 
