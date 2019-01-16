@@ -8,6 +8,6 @@ git clone - Downloadar verkefni og allri útgáfu sögu verkefnisinns
 git status - Skrifar allar nýjar eða breyttar möppur sem á eftir að committa
 git diff - Sýnir munin á möppum
 3. Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
-git log -
-git checkout -
-git branch -
+git log - Sýnir lista af öllum commits sem þú hefur gert
+git checkout - Skiptir yfir í tilgreinda grein og uppfærir directory-ið
+git branch - Skrifar lista af öllum greinum
