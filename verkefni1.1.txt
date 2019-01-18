@@ -23,7 +23,11 @@ Version control er kerfi sem t.d. GitHub notar þar sem að það vistar allar útgáf
 GIT gerir það mikið léttara og öruggara að geyma gögn. Eina sem þarf til að komast í gögnin er netsamband og einhvernveginn 
 tæki(t.d. síma eða fartölvu). Ef tölvan með öllum gögnunum þínum eyðileggst þá getur þú bara farið á github.com og sótt þau
 aftur. Maður veit aldrei hvað getur gerst og þess vegna er betra að taka 2 mínútur í að henda gögnunum þínum á github og 
-vita að gögnin eru örugg.
+vita að gögnin eru örugg. 
+Á nýju greininn minni get ég sagt mína skoðun á Git Umsjónarkerfinu. 
+Mér finnst þetta frábært kerfi. Þetta gerir allt 100 sinnum léttara fyrir mann. Það er miklu þægilegra að bara commita 
+og pusha í staðin fyrir að þurfa fara inn á vefinnog draga allar möppur inn þar sem það tekur mikið lengri tíma. 
+Þetta er mjög þægilegt og ég get hugsað um að nota þetta meira utan skóla.
 
 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
 
